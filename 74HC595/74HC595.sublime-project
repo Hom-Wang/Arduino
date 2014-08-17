@@ -1,0 +1,27 @@
+{
+  "folders":
+  [
+    {
+      "follow_symlinks": true,
+      "path": "Program",
+      "name": "Program",
+      "file_include_patterns": ["*.ino", "*.h"]
+    }
+  ],
+
+  "settings":
+  {
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "use_tab_stops"           : true
+  },
+/*
+  "build_systems":
+  [
+    {
+      "name": "List",
+      "cmd": ["ls"]
+    }
+  ]
+*/
+}
