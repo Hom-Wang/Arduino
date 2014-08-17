@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: int",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 283.0,
+		"history":
+		[
+			"10+2",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"help",
+			"view.run_command('C:\\Users\\Hom\\Desktop\\FlightRecorderDataPrint.py')",
+			"view.run_command('Hello.py')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hom/Desktop/Arduino_MAX7219_20140817/Program/main.ino",
+		"/C/Users/Hom/Desktop/Arduino_MAX7219_20140817/Program/module_max7219.ino",
+		"/C/Users/Hom/Desktop/Arduino_74HC595_20140817/Program/main.ino",
+		"/C/Users/Hom/Desktop/Arduino_MAX7219_20140817/Program/module_max7219.h",
+		"/C/Users/Hom/Desktop/Arduino_74HC595_20140817/Program/module_sf595.ino",
+		"/C/Users/Hom/Desktop/Arduino_74HC595_20140817/Program/module_sf595.h",
+		"/C/Users/Hom/Desktop/MAX7219/Program/max7219.ino",
+		"/E/My_Research/My Programs/Arduino/MAX7219/Program/max7219.ino",
+		"/E/My_Research/My Programs/Arduino/MAX7219/Program/main.ino",
+		"/E/My_Research/My Programs/Arduino/MAX7219/MatrixLED.sublime-project",
+		"/C/Users/Hom/Desktop/MAX7219/Program/max7219.h",
+		"/C/Users/Hom/Desktop/MAX7219/Program/main.ino",
+		"/C/Users/Hom/Desktop/MAX7219/MatrixLED.sublime-project",
+		"/C/Users/Hom/Desktop/MAX7219/Program/src/main.ino",
+		"/C/Users/Hom/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Hom/Desktop/MAX7219/MatrixLED_8x8.ino",
+		"/C/Users/Hom/Desktop/MAX7219/project.sublime-project",
+		"/C/Users/Hom/Desktop/MAX7219/main.ino",
+		"/C/Users/Hom/Desktop/MAX7219/max7219.ino",
+		"/C/Users/Hom/Desktop/MAX7219/max7219.h",
+		"/D/Program Files/Arduino/arduino-1.0.5-r2/examples/01.Basics/Blink/Blink.ino",
+		"/C/Users/Hom/Desktop/123.c",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_FlightControl_20140616/QCopterFC.sublime-project",
+		"/C/Users/Hom/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Hom/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_FlightControl_20140616/Program/QCopterFC.c",
+		"/C/Users/Hom/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Hom/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-settings",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_FlightControl_20140616/Program/QCopterFC.h",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_FlightControl_20140616/Program/QCopterFC_ctrl.c",
+		"/C/Users/Hom/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_FlightControl_20140616/Program/stm32f4xx_conf.h",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_TestLED_20140710/ProjectFC/ProjectFC.sublime-project",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_TestLED_20140710/Program/experiment_stm32f4.c",
+		"/C/Users/Hom/Desktop/TEST/tproject.sublime-project",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_FlightControl_20140116/Program_System/QCopterFC_board.c",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_FlightControl_20140116/Program_System/QCopterFC.c",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_FlightControl_20140116/Program_Module/module_nrf24l01.c",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_FlightControl_20140116/Program_Dirver/stm32f4_flash.c",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_FlightControl_20140116/Program_Module/module_sensor.c",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_FlightControl_20140116/Program_Module/module_mpu6050.c",
+		"/E/My_Download/MAX7219.h",
+		"/E/My_Download/MAX7219.C",
+		"/E/My_Download/test.c",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_TestUART_20140710/Readme.md",
+		"/E/My_Research/My_GitHub/QCopterFlightControl/README.md",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_TestLED_20140623/Readme.md",
+		"/C/Users/Hom/Desktop/STM32F4_QFC-FreeRTOS_TestLED_20140701/Readme.md",
+		"/E/My_Research/My_GitHub/QCopterFlightControl/Software/TEST_QCopterFC_IAP-LED/Readme.md",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_TestIAP_20140708/Readme.md",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_IAP-TestLED_20140708/Readme.md",
+		"/C/Users/Hom/Desktop/USB_HID/usb_hid/usb_conf.h",
+		"/C/Users/Hom/Desktop/Firmware-master/src/examples/px4_daemon_app/px4_daemon_app.c",
+		"/C/Users/Hom/Desktop/Firmware-master/src/examples/hwtest/hwtest.c",
+		"/C/Users/Hom/Desktop/Firmware-master/src/examples/flow_position_estimator/flow_position_estimator_main.c",
+		"/C/Users/Hom/Desktop/Firmware-master/CONTRIBUTING.md",
+		"/C/Users/Hom/Desktop/Firmware-master/src/examples/px4_simple_app/px4_simple_app.c",
+		"/E/My_Research/My_GitHub/Camera-MT/README.md",
+		"/C/Users/Hom/Desktop/FreeRTOS/Demo/CORTEX_M4F_STM32F407ZG-SK/main.c",
+		"/C/Users/Hom/Desktop/FreeRTOS/Demo/CORTEX_M4F_STM32F407ZG-SK/ParTest.c",
+		"/C/Users/Hom/Desktop/FreeRTOS/Demo/CORTEX_M4F_STM32F407ZG-SK/FreeRTOSConfig.h",
+		"/C/Users/Hom/Desktop/STM32F4_QFC-FreeRTOS_TestLED_20140701/Libraries/FreeRTOS/Source/heap_2.c",
+		"/E/My_Download/FreeRTOSv8.0.1/FreeRTOS/Demo/CORTEX_M4F_STM32F407ZG-SK/main.c",
+		"/C/Users/Hom/Desktop/firmware-2.0/program/lib/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c",
+		"/C/Users/Hom/Desktop/firmware-2.0/program/QuadCopterConfig.h",
+		"/E/My_Download/FreeRTOSv8.0.1/FreeRTOS/Source/portable/IAR/ARM_CM4F/port.c",
+		"/C/Users/Hom/Desktop/firmware-2.0/program/FreeRTOSConfig.h",
+		"/C/Users/Hom/Desktop/firmware-2.0/program/system/main.c",
+		"/C/Users/Hom/Desktop/firmware-2.0/program/test.c",
+		"/E/My_Download/FreeRTOSv8.0.1/FreeRTOS/Source/portable/MemMang/heap_1.c",
+		"/C/Users/Hom/Desktop/firmware-2.0/program/lib/FreeRTOS/Source/croutine.c",
+		"/C/Users/Hom/Desktop/新文字文件.c",
+		"/C/Users/Hom/Desktop/crazyflie-firmware-master/modules/src/stabilizer.c",
+		"/C/Users/Hom/Desktop/etootle_4x_2014/README.md",
+		"/C/Users/Hom/Desktop/crazyflie-firmware-master/init/main.c",
+		"/C/Users/Hom/Desktop/CuRT-master/includes/kernel/kernel.h",
+		"/C/Users/Hom/Desktop/CuRT-master/includes/kernel/list.h",
+		"/C/Users/Hom/Desktop/CuRT-master/includes/kernel/sync.h",
+		"/C/Users/Hom/Desktop/CuRT-master/includes/kernel/thread.h",
+		"/C/Users/Hom/Desktop/CuRT-master/includes/kernel/types.h",
+		"/C/Users/Hom/Desktop/CuRT-master/lib/stdio.c",
+		"/C/Users/Hom/Desktop/CuRT-master/includes/kernel/ipc.h",
+		"/C/Users/Hom/Desktop/CuRT-master/README.md",
+		"/C/Users/Hom/Desktop/SmartIMU/README.md",
+		"/E/My_School/電機_物件導向程式設計/Week14_Test3/main.cpp",
+		"/C/Users/Hom/AppData/Local/Temp/Rar$DIa0.947/module_imu.c",
+		"/C/Users/Hom/Desktop/MadgwickAHRS/MadgwickAHRS.c",
+		"/C/Users/Hom/Desktop/STM32F4_SmartIMU_QCopterNano_20140607/Program/QCopterNano.c",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_FlightControl_20140613/Program/QCopterFC_board.c",
+		"/C/Users/Hom/Desktop/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/ADC/AnalogWatchdog/main.c",
+		"/C/Users/Hom/Desktop/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/ADC/ADC1_DMA/main.c",
+		"/C/Users/Hom/Desktop/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/ADC/AnalogWatchdog/stm32f10x_it.h",
+		"/C/Users/Hom/Desktop/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/ADC/3ADCs_DMA/main.c",
+		"/C/Users/Hom/Desktop/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/ADC/3ADCs_DMA/stm32f10x_conf.h",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestLED_20140612/Program/Dirvers/stm32f1_system.h",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestLED_20140612/Program/Dirvers/stm32f1_delay.c",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_TestADC_20140506/Libraries/CMSIS/stm32f4xx.h",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/module_rs232.h",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Modules/module_rs232.h",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/module_rs232.c",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Modules/module_rs232.c",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Dirvers/stm32f4_adc.c",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Dirvers/stm32f1_adc.c",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Dirvers/stm32f1_adc.h",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Dirvers/stm32f4_adc.h",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Dirvers/stm32f1_delay.c",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Dirvers/stm32f1_usart.h",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Dirvers/stm32f4_delay.c",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Dirvers/stm32f1_delay.h",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Dirvers/stm32f4_delay.h",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Dirvers/stm32f4_system.h",
+		"/C/Users/Hom/Desktop/STM32F1_RNR_TestADC_20130827/Program/Dirvers/stm32f1_system.c",
+		"/E/My_Research/My_GitHub/QCopterFlightControl/Software/TEST_QCopterFC_FFCSPI_TFT22/Readme.md",
+		"/E/My_Research/My_GitHub/QCopterFlightControl/Software/TEST_QCopterFC_FFCSPI_TFT22_WF/Readme.md",
+		"/C/Users/Hom/AppData/Local/Temp/Rar$DIa0.876/Readme.md",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_TestFFCSPI_TFT2.2_WF_20140605/Readme.md",
+		"/E/My_Research/My_GitHub/QCopterFlightControl/Software/TEST_QCopterFC_IMU_WaveFrom/Readme.md",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_TFT2.2_WaveForm_20140605/Readme.md",
+		"/E/My_Research/My_GitHub/QCopterFlightControl/Software/TEST_QCopterFC_TestFFCSPI-TFT2.2/Readme.md",
+		"/E/My_Research/My_GitHub/QCopterFlightControl/Software/TEST_QCopterFC_TFT2.2_WaveForm/Readme.md",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_TestIMU_20140608/Readme.md",
+		"/C/Users/Hom/AppData/Local/Temp/Rar$DIa0.169/Readme.md",
+		"/C/Users/Hom/AppData/Local/Temp/Rar$DIa0.886/Readme.md",
+		"/C/Users/Hom/Desktop/algorithm_crc/algorithm_crc.c",
+		"/C/Users/Hom/Desktop/STM32F4_QFC_TestIMU_20140608/Program/Modules/module_rs232.c",
+		"/C/Users/Hom/AppData/Local/Temp/Rar$DIa0.034/MahonyAHRS.c",
+		"/C/Users/Hom/AppData/Local/Temp/Rar$DIa0.610/MahonyAHRS.c",
+		"/E/My_Research/My_GitHub/SmartIMU/FUTURE.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"folder_include_patterns",
+			"ctrl+shift+",
+			"extensions",
+			"placed",
+			"prvOptionallyCreateComprehensveTestApplication",
+			"prvCheckTimerCallback",
+			"vParTestInitialise",
+			"prvSetupHardware",
+			"mainFLASH_TASK_PRIORITY",
+			"vStartLEDFlashTasks",
+			"prvSetupHardware",
+			"configSYSTICK_CLOCK_HZ",
+			"accMAG",
+			"init",
+			"mpu_read_mem",
+			"(0x17) >> 8",
+			"mpu_read_mem",
+			"ms5611_spi_periodic_check",
+			"Hom",
+			"yg_offs_tc",
+			"AKM_SINGLE_MEASUREMENT",
+			"AKM_REG_ST1",
+			"compass_addr",
+			"BIT_I2C_READ",
+			"i2c_mst",
+			"setup_compass",
+			"mpu_set_compass_sample_rate",
+			"s4_ctrl",
+			"s4_add",
+			"s4_ctrl",
+			"aux",
+			"31",
+			"SLV",
+			"SLV\n",
+			"SLV",
+			"0x31",
+			"/**\n",
+			"31",
+			"0x31",
+			"MPU6500",
+			"AK8963_SECONDARY",
+			"MPU9250",
+			"I2C_SLV",
+			"I2C_S",
+			"I2C_SLV",
+			"mpu_set_compass_sample_rate",
+			"MPU9150_Config",
+			"mpu_set_sensors",
+			"Set_System",
+			"I2C_SLV",
+			"INV_XYZ_COMPASS",
+			"BIT_AUX_IF_EN",
+			"USER_CTRL",
+			"REG_SETUP_RETR",
+			"SETUP_RETR\n",
+			"SETUP_RETR\nREG_SETUP_RETR",
+			"SETUP_RETR",
+			"CMD_R_RX_PAYLOAD",
+			"RADIO_DIS_CE",
+			"nrfReadReg",
+			"REG_FIFO_STATUS",
+			"NRF_TxPacket",
+			"nrfSetAddress",
+			"CMD",
+			"PARAM_ADD",
+			"nrf24l01",
+			"EN_AA",
+			"SETUP_RETR",
+			"xQueueReceive",
+			"nrfRxLength",
+			"nrfReadRX",
+			"R_RX_PAYLOAD",
+			"RD_RX_PAYLOAD",
+			"RD_RX_PLOAD",
+			"interruptCb",
+			"nrfIsr",
+			"xQueueReceive",
+			"nrfTest",
+			"radiolinkInitNRF24L01P",
+			"nrfFlushRx",
+			"nrfSetAddress",
+			"ASSERT",
+			"nrfWrite1Reg",
+			"nrfSetChannel",
+			"configblockGetRadioChannel",
+			"radiolinkInitNRF24L01P",
+			"nrfSetInterruptCallback",
+			"/*",
+			"extiInterruptHandler",
+			"extiInterruptHandler'",
+			"nrfFlushRx",
+			"nrfNop",
+			"spiSendByte",
+			"CMD_NOP",
+			"nrfNop",
+			"extiTest",
+			"RADIO_DIS_CE",
+			"RADIO_EN_CS",
+			"螢幕，增加解析度及畫質。",
+			"f_mount",
+			"xatoi",
+			"22",
+			"1個USB接口　外擴其他裝置",
+			"report.temp",
+			"temp",
+			"AK89xx_BYPASS",
+			"mpu_get_compass_reg",
+			"setup_compass",
+			"mpu9150_i2c_magn_addr",
+			"  \n",
+			"}\n",
+			"03",
+			"Hardware",
+			"乙太網路　預計使用W5100，SPI操作",
+			"Ymodem_Receive",
+			"SerialDownload",
+			"MPU",
+			" \n",
+			"TxBufferSize2",
+			"RxBufferSize1",
+			"NbrOfDataToRead1",
+			"NbrOfDataToRead1\nNbrOfDataToRead1\nNbrOfDataToRead1",
+			"NbrOfDataToRead1\nNbrOfDataToRead1",
+			"RxCounter1",
+			"GPIO_Remap_USART2",
+			"Mag_getADC",
+			"Mag",
+			"HMC58"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Blink":
+	{
+		"height": 148.0
+	},
+	"output.MAX7219":
+	{
+		"height": 99.0
+	},
+	"output.Program":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_log":
+	{
+		"height": 148.0
+	},
+	"project": "MatrixLED.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Hom\\Desktop\\TEST\\tproject.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
